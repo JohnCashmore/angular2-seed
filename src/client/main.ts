@@ -1,6 +1,6 @@
 import {provide, enableProdMode} from '@angular/core';
 import {bootstrap} from '@angular/platform-browser-dynamic';
-import {ROUTER_PROVIDERS} from '@angular/router-deprecated';
+import {ROUTER_PROVIDERS} from '@angular/router';
 import {APP_BASE_HREF} from '@angular/common';
 import {AppComponent} from './app/components/app.component';
 
